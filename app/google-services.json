@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199396370385",
+    "project_id": "login-app-f8bd1",
+    "storage_bucket": "login-app-f8bd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199396370385:android:312e974075eef78edde2f0",
+        "android_client_info": {
+          "package_name": "com.ener.meregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199396370385-isc5ti48r5acjshb2dtb64hrru2d1ri7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZTcw9YUkdNU-_2nOgWbjYa2ehg0HecY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199396370385-isc5ti48r5acjshb2dtb64hrru2d1ri7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
